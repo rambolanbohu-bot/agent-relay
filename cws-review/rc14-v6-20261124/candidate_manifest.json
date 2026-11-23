@@ -1,0 +1,43 @@
+{
+  "status": "REVIEW_CANDIDATE_NOT_SUBMITTED",
+  "upstream_release_tag": "v1.0.0-rc14-v6",
+  "upstream_sha256": "81f3505b3535d53bf8910fda3ee8abe076e9160cdc1befce6a1c660a5c0def3f",
+  "original_manifest_files_verified": 88,
+  "source_file_sha256": {
+    "content.js": "9039b7b543016ddf3589380ae559576c57ce0633a7e260979fcc2c49aea98f15",
+    "background.js": "0477786da76bcb1dd764c736d536d1caa561d3baf02fbdcfaac2ec0f959ea47c"
+  },
+  "extension_id_from_embedded_key": "jeelmedmciafjnfdpnjgbgipplcddhka",
+  "manifest_version": 3,
+  "extension_version": "1.0.2",
+  "permissions": [
+    "nativeMessaging",
+    "tabs"
+  ],
+  "host_permissions": [
+    "https://chatgpt.com/*",
+    "https://muse.ai/*"
+  ],
+  "marketing_links_in_extension": "Official GitHub release only; no Agensi/affiliate tracking",
+  "candidate_zip": "/workspace/agent-relay-cws-rc14v6/output/Agent_Relay_CWS_RC14-v6_CANDIDATE.zip",
+  "candidate_zip_sha256": "f1c17f9019b281705da27d3a5b595c1ff2741580e395464a2d5f431735a4ff6d",
+  "candidate_zip_size": 32694,
+  "contents": [
+    "manifest.json",
+    "content.js",
+    "background.js",
+    "popup.html",
+    "popup.css",
+    "help.html",
+    "icons/icon16.png",
+    "icons/icon48.png",
+    "icons/icon128.png"
+  ],
+  "blockers": [
+    "Chrome Web Store-assigned ID and Native Host allowed_origins require final verification",
+    "Hosted public privacy policy is not in the artifact",
+    "Verified seller-owned Agensi purchase URL not yet in candidate",
+    "User opt-in/automated send UX requires policy review and real browser testing",
+    "Screenshots and developer dashboard listing not submitted"
+  ]
+}
