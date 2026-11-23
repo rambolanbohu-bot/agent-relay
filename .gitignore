@@ -1,0 +1,23 @@
+# Local state and credentials
+**/state/
+**/browser-runs/
+**/chrome-profile/
+**/native_host/inbox.jsonl
+**/native_host/outbox.jsonl
+**/approval_pin.json
+**/*credential*
+**/*secret*
+**/*token*
+*.env
+.env.*
+!*.env.example
+*.log
+*.pyc
+__pycache__/
+.pytest_cache/
+test-output-*
+# OS / tools
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
