@@ -1,0 +1,10 @@
+{
+  "archive": "Agent_Relay_Windows_Portable_RC14-v6_REVIEW.zip",
+  "sha256": "0207ea6ff3da9e4716d391d3a2581156fdb7baf619f11fb7fd9648b768a2c8bb",
+  "size_bytes": 223674,
+  "contents": 38,
+  "upstream_hash": "81f3505b3535d53bf8910fda3ee8abe076e9160cdc1befce6a1c660a5c0def3f",
+  "runtime_files_untouched": 29,
+  "unit_tests": "13/13 PASS; FakeRegistry simulation only",
+  "real_windows_test": "PENDING"
+}
